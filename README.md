@@ -1,4 +1,4 @@
-# URL : https://akash13nov.github.io/tailwind-react-static-project
+URL : https://akash13nov.github.io/tailwind-react-static-project
 
 # React + Vite
 
